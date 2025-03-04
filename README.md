@@ -1,5 +1,5 @@
 # 🎁 Amigo Secreto
-
+<img alt="Version" src="assets/amigo-secreto.png" />
 ## 📌 Descripción
 **Amigo Secreto** es un juego en el que ingresas los nombres de tus amigos y el sistema te devuelve aleatoriamente el nombre de tu **Amigo Secreto**. Ideal para organizar intercambios de regalos de manera divertida y sencilla. 🎉
 
