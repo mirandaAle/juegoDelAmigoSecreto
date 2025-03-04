@@ -23,9 +23,6 @@ Para ejecutar el proyecto en tu computadora, sigue estos pasos:
 - Asignación aleatoria de los participantes.
 - Interfaz amigable y fácil de usar.
 
-## 🖼️ Capturas de pantalla (Próximamente)
-_Aquí puedes agregar imágenes del proyecto más adelante._
-
 ## 👤 Autor
 - **Alejandro Miranda**  
 - GitHub: [@alejandromiranda](https://github.com/alejandromiranda)
